@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Tan ZHong Yi</h1>
+<h1 align="center">Hi 👋, I'm Tan Zhong Yi</h1>
 <h3 align="center">Monash University Computer Science student</h3>
 
 - 🔭 I’m currently working on **tbc**
