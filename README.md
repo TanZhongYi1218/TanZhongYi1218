@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Tan Zhong Yi</h1>
 <h3 align="center">Monash University Malaysia Student to graduate at year 2026.</h3>
 
