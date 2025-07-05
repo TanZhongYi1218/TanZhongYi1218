@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **tbc**
 
-- 🌱 I’m currently learning **tbc**
+- 🌱 I’m currently learning **data strucutre and algorithm**
 
 - 👯 I’m looking to collaborate on **tbc**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **tbc**
 
-- 📫 How to reach me **tbc**
+- 📫 How to reach me **LinkedIn(https://www.linkedin.com/in/tan-zhong-yi-b51a43265/)**
 
 - 📄 Know about my experiences [tbc](tbc)
 
