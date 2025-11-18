@@ -22,7 +22,7 @@
 </p>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=boomboombakutan&stroke=%23BB432C)
+![Codewars](https://www.codewars.com/users/boomboombakutan)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/boomboombakutan)](https://leetcode.com/boomboombakutan)
 
@@ -33,19 +33,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzhongyi1218&show_icons=true&locale=en&layout=compact" alt="tanzhongyi1218" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzhongyi1218&show_icons=true&locale=en" alt="tanzhongyi1218" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzhongyi1218&" alt="tanzhongyi1218" /></p>
 
 
 
